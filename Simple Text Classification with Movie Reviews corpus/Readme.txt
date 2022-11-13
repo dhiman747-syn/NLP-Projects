@@ -1,5 +1,4 @@
-This is a simple project, where I've basically done text classification on the movie_reviews corpus 
-included in the NLTK library. In these reviews, there are mainly two categories - positive reviews and negative reviews.
+This is a simple project, where I've basically done text classification on the movie_reviews corpus included in the NLTK library. In these reviews, there are mainly two categories - positive reviews and negative reviews.
 
 So, our goal is to create a model to classify some custom reviews to its respective categories.
 
